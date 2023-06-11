@@ -40,7 +40,9 @@ STEP 6: Test the bullet count display:
 Play the game in the editor.
 Ensure that the bullet count is displayed on the screen as you interact with the game, such as firing bullets or picking up ammo.
 ~~~
+
 OUTPUT:
+
 ![C1](https://github.com/Sharmilasha/Game_programmingEXP-05/assets/94506182/ba6e6c94-6bf0-45d7-a1a5-ad5bc34a72ee)
 ![CC2](https://github.com/Sharmilasha/Game_programmingEXP-05/assets/94506182/4c1a8eb9-50af-46e9-9f4f-3bce6c4b0058)
 ![CC4](https://github.com/Sharmilasha/Game_programmingEXP-05/assets/94506182/cf04a621-1ed9-4d17-98c9-e29451e00cf3)
@@ -77,6 +79,7 @@ STEP 5: Test the ammo pickup functionality:
 Compile and save the AmmoActor Blueprint and the player's character Blueprint. Play the game and navigate the player character to the ammo actor.
 Ensure that when the player character overlaps or collides with the ammo actor, the bullet count increases, and the ammo actor disappears
 ~~~
+
 OUTPUT:
 ![LL1](https://github.com/Sharmilasha/Game_programmingEXP-05/assets/94506182/3ec34cb3-9ffd-4f24-90ac-a0d251860f73)
 
